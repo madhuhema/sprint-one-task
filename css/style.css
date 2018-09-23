@@ -1,0 +1,10 @@
+nav{
+    display:inline;
+}
+/* #drop-down-icon{
+    background-image: url("../assets/icons/icon.svg");
+
+} */
+#drop-down{
+    display:inherit;
+}
